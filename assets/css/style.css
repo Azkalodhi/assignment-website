@@ -21,11 +21,11 @@
     color:#1169ec
 }
 .bg-color{
-    background-color: #cfe2ff; 
+    background-color:#cfe2ff8f; 
 }
 #main{
     padding: 100px 0;
- background-color: #cfe2ff; 
+ background-color: #cfe2ff8f;
 }
 .hero-img{
 width: 100%;
@@ -85,5 +85,85 @@ gap:8px;
 }
 .rod{
     background-color: white;
-    padding: 20px;
+    
+  border-radius: 15px;
 }
+
+    .box .icon{
+font-size: 25px;
+height: 60px;
+width: 60px;
+background-color: #e7f2fc;
+text-align: center;
+padding: 8px;
+border-radius: 100%;
+align-items: center;
+color: #1169ec;
+    }
+    .box .icon:hover{
+        background-color: #1169ec;
+        color: white;
+    }
+    .about-items ul{
+list-style: none;
+font-size: 16px;
+    }
+    .about-items i{
+       margin-right: 5px;
+       font-size: 23px;
+       color: #1169ec;
+    }
+    .avatar-img{
+        height: 60px;
+        width: 60px;
+        border-radius: 100%;
+    }
+    .avatar-img img{
+        height: 60px;
+        width: 60px;
+        border-radius: 100%;
+    }
+    .address-icon{
+        font-size: 30px;
+        color: #1169ec;
+        font-weight:bolder;
+    }
+    .about-img{
+        height: auto;
+     max-width: 100%;
+     border-radius: 10px;
+     position: relative;
+
+    }
+    .about-img img{
+         height: auto;
+        max-width: 100%;
+        border-radius: 10px;
+    }
+    .about-heading1{
+        color: #1169ec;
+    }
+    .about-heading2{
+        color: #052c65;
+        font-size: 25px;  
+    }
+    .avatar-intro h6{
+        color: #052c65;
+    }
+    .avatar-intro p{
+        color: #1169ec;
+    }
+     .address-no .call{
+color: rgb(73, 72, 72);
+    }
+    .address-no .num{
+        font-weight: bold;
+    }
+    .absolute-img{
+        height: 200px;
+        width: 240px;
+       
+        position: absolute;
+        bottom: 70px;
+        left: -40px;
+    }
