@@ -1,0 +1,89 @@
+.container-fluid{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:10px 5px 10px 15px;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: 10px;
+    box-shadow:0 0 7px -4px;
+}
+.blue{
+    margin-right:5px;
+    padding-left:4px;
+    padding-right:4px;
+    border-radius: 50px !important;
+}
+.nav-list .nav-link{
+    justify-content: center !important;
+    color:#0d1e36;
+}
+.nav-list .link-1{
+    color:#1169ec
+}
+.bg-color{
+    background-color: #cfe2ff; 
+}
+#main{
+    padding: 100px 0;
+ background-color: #cfe2ff; 
+}
+.hero-img{
+width: 100%;
+height: auto;
+margin-top: 70px;
+}
+.hero-img img{
+ max-width: 100%;
+height: auto;
+margin-top: 70px;
+}
+.main-para{
+   margin-top: 70px;
+   padding-top:70px
+}
+.company{
+  background-color: #bfdcf7;
+width: 250px;
+ display:flex;
+gap:8px;
+ border-radius: 50px;
+ padding: 05px 10px;
+ margin-bottom: 30px;
+ color:#1169ec; 
+}
+.company i{
+    font-size: 23px;
+}
+.company p{
+    font-size: 16px;
+    margin-top: 5px;
+    font-weight: bold;
+
+}
+.hero-buttons .blue{
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+.hero-buttons .anchor{
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #052c65; 
+}
+.hero-buttons .anchor:hover{
+    color:#1169ec;
+}
+.main-para h1{
+      color: #052c65;
+      font-weight: bolder;
+}
+.color{
+    color:#1169ec;
+}
+.main-para .line{
+    color:#0d1e36;
+}
+.rod{
+    background-color: white;
+    padding: 20px;
+}
